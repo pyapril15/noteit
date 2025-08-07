@@ -37,9 +37,9 @@ NoteIt is a feature-rich, cross-platform notes application built with Flutter, d
 
 *(Include screenshots of your app on Android here. Update with other platforms as they are added.)*
 
-| Android |
-| :------: |
-| <img src="assets/screenshots/android_screenshot.png" alt="Android Screenshot" width="300"/> |
+|                                 Android                                  |
+|:------------------------------------------------------------------------:|
+| <img src="assets/icon/NoteIt.png" alt="Android Screenshot" width="300"/> |
 
 ## Getting Started
 
